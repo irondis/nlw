@@ -1,12 +1,13 @@
 # NLW eSports 
 
-![Preview](./.github/Preview.png)
+![Preview](./.github/preview.png)
 
 > Trlha Explorer
 
-Projeto construido no evento Next Level week da Rocketseat
+Projeto construido do zero no evento Next Level week da Rocketseet 
 
-[Clique aqui para acessar](https://irondis.github.io/nlw/)
+
+[Clique aqui para acessar !](https://irondis.github.io/nlw/)
 
 ## Tecnologias
 
