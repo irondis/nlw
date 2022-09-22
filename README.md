@@ -1,6 +1,6 @@
 # NLW eSports 
 
-![Preview](./.github/preview.png)
+![Preview](./.github/preview.jpg)
 
 > Trlha Explorer
 
